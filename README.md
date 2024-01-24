@@ -1,7 +1,7 @@
 # exam-no1
-Exam assignment no1 (2024-01-24) by Justas Plaušinaitis
+Exam assignment no-1 (2024-01-24) by Justas Plaušinaitis
 
-## Instalation
+## Installation
 1. Clone the repository
 2. Build the solution
 3. Change "ApiKey" configuration at appsettings.json (currently it's set to "MyApiKey")
