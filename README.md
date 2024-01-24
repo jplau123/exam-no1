@@ -2,7 +2,7 @@
 Exam assignment no-1 (2024-01-24) by Justas Plaušinaitis
 
 This API is created to return changes in currency rates in one day, provided by 
-[a link](https://www.lb.lt/webservices/ExchangeRates/ExchangeRates.asmx)
+[Lietuvos Bankas](https://www.lb.lt/webservices/ExchangeRates/ExchangeRates.asmx)
 
 ## Installation
 1. Clone the repository
